@@ -1,0 +1,56 @@
+My new website will be called Fatty Mc Fat Fat!
+Phase one
+I want a website with 3 pages.
+On this site, I want to dedicate the memory of my cat Fatty Mc Fat Fat. However, this site will be for other
+folks who had similar big fat orange cats and want to share their stories of their cats with other people. I
+want this site to be comforting and peaceful. An enjoyable experience for those folks who are
+heartbroken about losing their fat orange cats to old age.
+On the first page, will be his 
+
+biography: 
+
+Fatty was born on July 4th 2008. He was first called Wendy when
+we first found him on a farm as a tiny stray kitten. At his 6 month check up with the vet, the vet informed
+us that Wendy was a boy so we renamed him Simba. Within one year, Simba was so enormous that we
+renamed him again to Fatty Mc Fat Fat. The vets office loved having him for his visit and had a right old
+giggle calling his name out from the waiting room.
+
+On the 2nd page,
+
+I want a form for folks to submit their own memories of their own cats. I will leave this
+form up to you to decide what folks could possibly submit for their cat memory.
+This site is uniquely for big fat orange cats!
+
+On the 3rd page,
+
+ I need another form for folks to contact me for questions. I will leave this form up to you
+to figure out what questions we should ask. However, I’d love to hear from visitors about how the site
+could be improved, other uses for the site and be open to other peoples suggestions.
+Use the images in the link below to figure out a color palette.
+Link to Cat images: https://files.aventri.com/fl/I9LxqILLuv
+Create the css files to make this site look beautiful. I want to have a different CSS file for the table
+decoration and a different css file for the fonts and layout.
+I will need a text file that lists the color pallette codes. Please add that to the site
+index.css-Store layout, fonts information
+forms.css-Store form css information
+Please create a cute favicon.
+
+Phase Two
+I want a nav bar, that opens out - like a wee hamburger - a menu on the side or middle.
+Please launch this site using Netlify.
+Instructions:
+Ö Create a new account in Netlify.
+Ö Add a new site.
+Ö Import a project.
+Ö Try Netlify drop!
+Ö Upload your folder of your zipped project from NetBeans.
+Ö Preview your file.
+Ö Take a screen shot of the preview of the file.
+Ö Investigate the Netlify site and see how you can host a website using a customized Netlify
+domain.
+Please include in the site, instructions on how to set it up. I would like this in text files and available to me
+so that I will be informed about how to take care of the site.
+I’m not sure yet if I want a full code site or a low code site.
+Please go to weebly.com and make a new site for this page and publish it.
+Please create a list of 20 words that I can use as SEO (Search Engine Optimization) key words to add to
+the site.

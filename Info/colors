@@ -1,0 +1,8 @@
+1. Main Orange: #ff8800 (rgb(255, 136, 0))
+2. Header Silver Gradient Base: silver (#c0c0c0)
+3. Navigation and Text: #333333 (dark gray)
+4. Background for Links and Hover States: #ff4500 (orange red)
+5. Footer and Section Backgrounds: #222222 (dark gray)
+6. Hamburger Menu Bars: #333333 (dark gray)
+7. Gallery Border and Hover Background: #cccccc (light gray); Hover: hsl(38, 100%, 80%)
+8. Links Color: #FFA500 (orange)

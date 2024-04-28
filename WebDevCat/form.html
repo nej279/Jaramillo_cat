@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!--
+    Fatty Mc Fat Fat!
+    Author: Jaramillo
+    Date: 04-17-2024   
+
+    Filename: share.html
+   -->
+
+   <meta charset="utf-8" />
+   <link rel="stylesheet" href="/Styles/form.css">
+   <title>Fatty Mc Fat Fat!</title>
+   <link rel="icon" type="images/Heart" href="/images/Heart.jpg">
+</head>
+
+<body>
+   <header>
+      <nav class="toplinks">
+         <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="memories.html">Memories</a></li>
+            <li><a href="form.html">Connect</a></li>
+         </ul>
+      </nav>
+      <h1>Share your Feline Friends</h1>
+      <img src="/images/wcats.jpg" alt="orange cat">
+   </header>
+
+   <form action="/action_page.php">
+      <fieldset>
+        <legend>Personalia:</legend>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" value="John"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" value="Doe"><br><br>
+        <input type="submit" value="Submit">
+      </fieldset>
+    </form>
+
+   <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+   <h2>Textarea</h2>
+   <p>The textarea element defines a multi-line input field.</p>
+
+   <form action="/action_page.php">
+      <textarea name="message" rows="10" cols="30">The cat was playing in the garden.</textarea>
+      <br><br>
+      <input type="Share Memories">
+   </form>
+<p> Add Photos</p>
+   <form action="/action_page.php">
+      <label for="files">Select files:</label>
+      <input type="file" id="files" name="files" multiple><br><br>
+      <input type="submit" value="Submit">
+    </form>
+
+   <h2>Share Memories</h2>
+
+   <p>Click the "Submit" button to request to have loved ones added and shared.</p>
+
+   <footer>
+      <p>
+         Please share any ideas or feedback that can provide a better dedication for our uniquely big fat orange cats!
+      </p>
+      <a href="mailto:someone@example.com">Send email</a>
+
+
+      <form action="/action_page.php">
+         <label for="email">Enter your email:</label>
+         <input type="email" id="email" name="email">
+         <input type="submit" value="Submit">
+       </form>
+
+
+      <form action="/action_page.php"
+oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+  0
+  <input type="range" id="a" name="a" value="50">
+  100 +
+  <input type="number" id="b" name="b" value="50">
+  =
+  <output name="x" for="a b"></output>
+  <br><br>
+  <input type="submit">
+</form>
+   </footer>
+
+   <div class="mycontainer">
+
+      <div style="background-color:#FFF4A3;">
+        <h2>London</h2>
+        <p>London is the capital city of England.</p>
+        <p>London has over 13 million inhabitants.</p>
+      </div>
+      
+      <div style="background-color:#FFC0C7;">
+        <h2>Oslo</h2>
+        <p>Oslo is the capital city of Norway.</p>
+        <p>Oslo has over 600.000 inhabitants.</p>
+      </div>
+      
+      <div style="background-color:#D9EEE1;">
+        <h2>Rome</h2>
+        <p>Rome is the capital city of Italy.</p>
+        <p>Rome has almost 3 million.</p>
+      </div>
+    
+    </div>
+</body>
+
+<!-- 
+I need another form for folks to contact me for questions. I will leave this form up to you
+to figure out what questions we should ask. However, I’d love to hear from visitors about how the site
+could be improved, other uses for the site and be open to other peoples suggestions.-->
+
+</html>
